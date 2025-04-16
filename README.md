@@ -79,6 +79,10 @@ Need help? Check the full documentation PDF in the repo.
 
 ---
 
+## 🖼️ Live Site Preview  
+![Homepage Screenshot](https://github.com/manar365/portfolio-deployment/blob/master/image.png)
+
+---
 ## 📢 License  
 MIT License — free to use, modify, and share with attribution.
 
