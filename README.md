@@ -60,6 +60,7 @@ This project was developed for the ICT1711 unit at Murdoch University. It demons
 - `assets/` – Images and media  
 - `ICT 1711 assignment 2 (1).pdf` – Full documentation  
 - `README.md` – This file 😎
+- `setup-portfolio.sh` – Bash script to automate Nginx and SSL setup on Ubuntu
 
 ---
 
@@ -69,8 +70,10 @@ This project was developed for the ICT1711 unit at Murdoch University. It demons
 3. SSH into VM, install Nginx  
 4. Clone this repo and copy web files to `/var/www/html`  
 5. Set up domain on GoDaddy and point it to your IP  
-6. Use Certbot to install an SSL certificate  
-7. Done! 🎉
+6. Use Certbot to install an SSL certificate 
+8. Done! 🎉
+
+💡 Bonus: Run `bash setup-portfolio.sh` after cloning to auto-install Nginx, SSL, and get up and running.
 
 Need help? Check the full documentation PDF in the repo.
 
